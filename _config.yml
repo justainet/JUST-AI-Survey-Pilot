@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: JUST AI Reflective Survey Pilot
-description: bla bla bla
+#description: bla bla bla
 logo: justailogo.jpg
-show_downloads: "false"
+show_downloads: false
