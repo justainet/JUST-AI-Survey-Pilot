@@ -1,8 +1,0 @@
-theme: jekyll-theme-tactile
-title: JUST AI Reflective Survey Pilot
-#description: bla bla bla
-logo: /justailogo.jpg
-show_downloads: false
-site:
-  github:
-    is_project_page: false
