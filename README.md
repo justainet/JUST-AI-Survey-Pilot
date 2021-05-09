@@ -1,6 +1,4 @@
-# JUST AI Reflective Survey Pilot
-
-Hello! 
+# Hello!
 
 Thank you for joining the JUST AI community. The following pages will take you through a reflective survey that invites you to think about your interest and involvement in AI and data ethics work. This process tries to encompass the many ways each of us approaches and contributes to this endeavor.
 
