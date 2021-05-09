@@ -1,1 +1,1 @@
-Material for the piloting of the JUST AI reflective survey tool.
+Material for the piloting of JUST AI's reflective survey tool.
